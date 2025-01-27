@@ -4,11 +4,11 @@ This tool helps you to automatically organize files and folders in your director
 
 ## ✨ Features
 
-✅ Automatically moves files to specific category folders (e.g., .pdf, .jpg, .mp4, etc.)
-✅ Move existing folders to the correct category folders
-✅ Detect duplicate files and remove them if necessary
-✅ Optional: Move folders up
-✅ Command-line interface: Use various commands to control the behavior of the tool.
+- ✅ Automatically moves files to specific category folders (e.g., .pdf, .jpg, .mp4, etc.)
+- ✅ Move existing folders to the correct category folders
+- ✅ Detect duplicate files and remove them if necessary
+- ✅ Optional: Move folders up
+- ✅ Command-line interface: Use various commands to control the behavior of the tool.
 
 ## 📚 Requirements
 
@@ -88,4 +88,4 @@ This project is open-sourced under the MIT License - see the LICENSE file for de
 
 ## 🧑‍🤝‍🧑 Author
 
-- [Lennard Geißler](https://github.com/lennardgeissler)
+- [Lennard Geißler](https://github.com/LennardGeissler)

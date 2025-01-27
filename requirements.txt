@@ -1,1 +1,5 @@
 python-dotenv
+os
+shutil
+hashlib
+argparse

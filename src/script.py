@@ -18,7 +18,7 @@ def parse_arguments():
 
     return parser.parse_args()
 
-if __name__ == "__main__":
+def main():
     args = parse_arguments()
 
     # Verwende das Verzeichnis aus den Argumenten oder lade es aus der .env-Datei
@@ -41,3 +41,6 @@ if __name__ == "__main__":
     # Optional: Verschiebe Unterordner nach oben
     if args.move_folders:
         move_folders_up(directory_path)
+
+if __name__ == "__main__":
+    main()

@@ -11,3 +11,16 @@ __pycache__/
 *.bak
 coverage/
 test_directory/  # Remove test artifacts after testing
+
+# Build artifacts
+build/
+dist/
+*.egg-info/
+
+# Virtual environments
+venv/
+env/
+.venv/
+
+# VSCode
+.vscode/
