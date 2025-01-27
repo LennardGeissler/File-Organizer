@@ -1,1 +1,13 @@
+# Byte-compiled files
+__pycache__/
+*.py[cod]
+
+# Environment variables
 .env
+
+# Test artifacts
+*.log
+*.tmp
+*.bak
+coverage/
+test_directory/  # Remove test artifacts after testing
